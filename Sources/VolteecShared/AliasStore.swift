@@ -39,6 +39,7 @@ private enum AliasFileStore {
     }
 
     static func read(tenantId: String, upsId: String) -> String? {
+        #if os(iOS)
         guard let url = fileURL(tenantId: tenantId, upsId: upsId) else { return nil }
         var value: String?
         let coordinator = NSFileCoordinator(filePresenter: nil)
@@ -46,9 +47,13 @@ private enum AliasFileStore {
             value = try? String(contentsOf: readURL, encoding: .utf8)
         }
         return value
+        #else
+        return nil
+        #endif
     }
 
     static func write(_ value: String?, tenantId: String, upsId: String) {
+        #if os(iOS)
         guard let url = fileURL(tenantId: tenantId, upsId: upsId) else { return }
         let coordinator = NSFileCoordinator(filePresenter: nil)
         coordinator.coordinate(writingItemAt: url, options: .forReplacing, error: nil) { writeURL in
@@ -61,6 +66,9 @@ private enum AliasFileStore {
                 try? fm.removeItem(at: writeURL)
             }
         }
+        #else
+        _ = value
+        #endif
     }
 }
 

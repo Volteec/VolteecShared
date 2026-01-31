@@ -14,6 +14,7 @@ enum SharedDefaults {
     }
 
     static func containerURL() -> URL? {
+        #if os(iOS)
         let url = FileManager.default.containerURL(forSecurityApplicationGroupIdentifier: suiteName)
         #if DEBUG
         if url == nil {
@@ -21,5 +22,8 @@ enum SharedDefaults {
         }
         #endif
         return url
+        #else
+        return nil
+        #endif
     }
 }
