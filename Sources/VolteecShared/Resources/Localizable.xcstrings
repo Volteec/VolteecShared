@@ -20,6 +20,24 @@
             "state": "translated",
             "value": "%@ ist online"
           }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ est en ligne"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ está online"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ è online"
+          }
         }
       }
     },
@@ -41,6 +59,24 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ ist offline"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ est hors ligne"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ está offline"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ è offline"
           }
         }
       }
@@ -64,6 +100,24 @@
             "state": "translated",
             "value": "%@ ist im Batteriebetrieb"
           }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ est sur batterie"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ está en batería"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ è a batteria"
+          }
         }
       }
     },
@@ -85,6 +139,24 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ ist veraltet. Update erforderlich"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ est obsolète. Mise à jour requise"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ está desactualizado. Actualización requerida"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ è obsoleto. Aggiornamento richiesto"
           }
         }
       }
@@ -108,6 +180,24 @@
             "state": "translated",
             "value": "%@ hat ein verfügbares Update"
           }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ a une mise à jour disponible"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ tiene una actualización disponible"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ha un aggiornamento disponibile"
+          }
         }
       }
     },
@@ -129,6 +219,24 @@
           "stringUnit": {
             "state": "translated",
             "value": "Es gibt Neuigkeiten. Öffne die App, um mehr zu sehen."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quelque chose a changé. Ouvrez l’app pour voir les nouveautés."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ha ocurrido una novedad. Abre la app para ver qué hay de nuevo."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "C'è qualcosa di nuovo. Apri l’app per vedere le novità."
           }
         }
       }
