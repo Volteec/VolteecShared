@@ -74,6 +74,72 @@
             "state": "translated",
             "value": "%@ jest online"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ متصل"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ מקוון"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ çevrimiçi"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ is online"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ е онлайн"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ је онлајн"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο/Η %@ είναι online"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ online"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "value": "%@ on verkossa",
+            "state": "translated"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "value": "%@ sedang online",
+            "state": "translated"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "value": "%@ อยู่ในสถานะออนไลน์",
+            "state": "translated"
+          }
         }
       }
     },
@@ -149,6 +215,72 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ jest offline"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ غير متصل"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ לא מקוון"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ çevrimdışı"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ is offline"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ е офлайн"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ је офлајн"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο/Η %@ είναι offline"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ offline"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "value": "%@ on poissa verkosta",
+            "state": "translated"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "value": "%@ sedang luring",
+            "state": "translated"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "value": "%@ อยู่ในสถานะออฟไลน์",
+            "state": "translated"
           }
         }
       }
@@ -226,6 +358,72 @@
             "state": "translated",
             "value": "%@ jest na baterii"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ يعمل على البطارية"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ על סוללה"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ bataryada"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ draait op batterij"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ е на батерия"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ је на батерији"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο/Η %@ είναι σε μπαταρία"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ akkumulátoron"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "value": "%@ on akulla",
+            "state": "translated"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "value": "%@ menggunakan baterai",
+            "state": "translated"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "value": "%@ ใช้พลังงานจากแบตเตอรี่",
+            "state": "translated"
+          }
         }
       }
     },
@@ -301,6 +499,72 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ jest nieaktualny. Wymagana aktualizacja"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ قديم. التحديث مطلوب"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ מיושן. נדרש עדכון"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ eski. Güncelleme gerekli"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ is verouderd. Update vereist"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ е остарял. Нужна е актуализация"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ је застарео. Потребна је надоградња"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ο/Η %@ είναι παρωχημένος/η. Απαιτείται ενημέρωση"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ elavult. Frissítés szükséges"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "value": "%@ on vanhentunut. Päivitys vaaditaan",
+            "state": "translated"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "value": "%@ sudah usang. Pembaruan diperlukan",
+            "state": "translated"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "value": "%@ ล้าสมัย ต้องอัปเดต",
+            "state": "translated"
           }
         }
       }
@@ -378,6 +642,72 @@
             "state": "translated",
             "value": "Dostępna aktualizacja dla %@"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يتوفر تحديث لـ %@"
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "זמין עדכון עבור %@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ için güncelleme mevcut"
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er is een update beschikbaar voor %@"
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Има налична актуализация за %@"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Доступна је надоградња за %@"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Υπάρχει διαθέσιμη ενημέρωση για %@"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frissítés érhető el ehhez: %@"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "value": "%@: päivitys saatavilla",
+            "state": "translated"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "value": "%@ memiliki pembaruan tersedia",
+            "state": "translated"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "value": "%@ มีอัปเดตให้ใช้งาน",
+            "state": "translated"
+          }
         }
       }
     },
@@ -453,6 +783,72 @@
           "stringUnit": {
             "state": "translated",
             "value": "Wydarzyło się coś nowego. Otwórz aplikację, aby zobaczyć szczegóły."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حدث شيء جديد. افتح التطبيق لمعرفة ما الجديد."
+          }
+        },
+        "he": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "קרה משהו חדש. פתח את האפליקציה כדי לראות מה חדש."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeni bir şey oldu. Yenilikleri görmek için uygulamayı açın."
+          }
+        },
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Er is iets nieuws gebeurd. Open de app om te zien wat er nieuw is."
+          }
+        },
+        "bg": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Случи се нещо ново. Отворете приложението, за да видите какво е новото."
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Догодило се нешто ново. Отворите апликацију да видите шта је ново."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Κάτι νέο συνέβη. Ανοίξτε την εφαρμογή για να δείτε τι νέο υπάρχει."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valami új történt. Nyissa meg az alkalmazást a részletekhez."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "value": "Tapahtui jotain uutta. Avaa sovellus nähdäksesi uutta.",
+            "state": "translated"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "value": "Ada hal baru. Buka aplikasi untuk melihatnya.",
+            "state": "translated"
+          }
+        },
+        "th": {
+          "stringUnit": {
+            "value": "มีสิ่งใหม่เกิดขึ้น เปิดแอปเพื่อดูรายละเอียด",
+            "state": "translated"
           }
         }
       }
