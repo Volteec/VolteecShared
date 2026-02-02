@@ -14,6 +14,12 @@
             "state": "translated",
             "value": "%@ este online"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ist online"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ este offline"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ist offline"
           }
         }
       }
@@ -46,6 +58,12 @@
             "state": "translated",
             "value": "%@ este pe baterie"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ist im Batteriebetrieb"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ are versiune veche. Actualizare necesară."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ist veraltet. Update erforderlich"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state": "translated",
             "value": "%@ are o actualizare disponibilă"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ hat ein verfügbares Update"
+          }
         }
       }
     },
@@ -93,6 +123,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "A apărut o schimbare. Deschide aplicația pentru detalii."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Es gibt Neuigkeiten. Öffne die App, um mehr zu sehen."
           }
         }
       }
