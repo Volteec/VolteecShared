@@ -53,10 +53,22 @@ public struct ServerStatusResponse: Codable, Sendable {
     public let protocolVersion: String
     /// The compatibility state (calculated by the server itself against Relay, optional)
     public let compatibility: CompatibilityState?
-    
-    public init(version: String, protocolVersion: String, compatibility: CompatibilityState? = nil) {
+    /// The latest protocol version currently recommended by Relay (optional)
+    public let relayCurrentProtocolVersion: String?
+    /// The minimum protocol version currently accepted by Relay (optional)
+    public let relayMinProtocolVersion: String?
+
+    public init(
+        version: String,
+        protocolVersion: String,
+        compatibility: CompatibilityState? = nil,
+        relayCurrentProtocolVersion: String? = nil,
+        relayMinProtocolVersion: String? = nil
+    ) {
         self.version = version
         self.protocolVersion = protocolVersion
         self.compatibility = compatibility
+        self.relayCurrentProtocolVersion = relayCurrentProtocolVersion
+        self.relayMinProtocolVersion = relayMinProtocolVersion
     }
 }
