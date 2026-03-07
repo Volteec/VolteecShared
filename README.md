@@ -1,6 +1,6 @@
 # VolteecShared
 
-**v1.0.0 (2026-01-31)** — Swift 6.2 — Shared models and utilities for Volteec App, Backend, and Notification Service Extension.
+**v1.1.0 (2026-03-07)** — Swift 6.2 — Shared models and utilities for Volteec App, Backend, and Notification Service Extension.
 
 This package provides canonical notification payload models, shared localization helpers, and alias storage utilities. It is intentionally UI-agnostic and safe to reuse across targets.
 
@@ -8,10 +8,15 @@ This package provides canonical notification payload models, shared localization
 
 ## Status
 
-Current version: v1.0.0 (2026-01-31).  
-Current content: notification payload models, validation helpers, localization utilities, alias stores (App Group).
+Current version: v1.1.0 (2026-03-07).  
+Current content: notification payload models, validation helpers, localization utilities, alias stores (App Group), backend/relay version metadata models.
 
 ### Patch History
+
+**v1.1.0 (2026-03-07) — additive backend compatibility metadata support**  
+- Extend `ServerStatusResponse` with optional Relay protocol snapshot fields  
+- Preserve backward-compatible decoding for existing backend status payloads  
+- Keep shared version metadata aligned for Volteec Backend observability
 
 **v1.0.0 (2026-01-31) — initial public release**  
 - Canonical notification payload + validation  
@@ -68,7 +73,7 @@ let body = NotificationStrings.statusBody(displayName: display, status: "on_batt
 
 ## Version
 
-- **Current**: v1.0.0 (2026-01-31)
+- **Current**: v1.1.0 (2026-03-07)
 - **Swift tools**: 6.2
 
 ## Build Status
